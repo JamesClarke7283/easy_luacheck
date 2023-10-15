@@ -3,10 +3,10 @@
   "displayName": "easy_luacheck",
   "description": "A basic luacheck linter that respects the .luacheckrc file of your project.",
   "license": "GPL-3.0-or-later",
-  "author": "James Clarke",
+  "author": "Impulse (James Clarke)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/your-repo.git"
+    "url": "https://github.com/JamesClarke7283/easy_luacheck"
   },
   "version": "1.0.0",
   "engines": {
